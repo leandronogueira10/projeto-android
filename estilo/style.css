@@ -193,6 +193,9 @@ aside > ul{
   list-style-position: inside;
   columns: 2;
 }
+footer a{
+  color: var(--cor0);
+}
 footer{
   background-color: var(--cor4);
   color: white;
